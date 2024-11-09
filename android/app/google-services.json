@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712969901589",
+    "project_id": "socialmediatest-a0d4e",
+    "storage_bucket": "socialmediatest-a0d4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712969901589:android:379ab90acaa7b142eb201c",
+        "android_client_info": {
+          "package_name": "app.fahimsaki.socialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB47XfNPGe9yUVAsnrYztY5nl4mDT8dEXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
